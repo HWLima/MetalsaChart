@@ -61,7 +61,7 @@ var myLineChart = new Chart(ctx, {
   data: {
     labels: ["A09",	"B30",	"H10",	"H40",	"I84",	"I86.1",	"J01",	"J04",	"K40.9",	"K59.1",	"M54.5",	"N20",	"N30",	"S61.8",	"S62",	"Z000",	"Z52.0"],
     datasets: [{
-      label: "Revenue",
+      label: "Ocorrência",
       backgroundColor: "rgba(2,117,216,1)",
       borderColor: "rgba(2,117,216,1)",
       data: [4,1,1,2,	1,	1,	2,	1,	2,	1,	2,	1,	1,	1,	2,	1,	1],
